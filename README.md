@@ -4,7 +4,7 @@
 # Offensive comment classifier
 
 
-#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Offensive-Comment-Classifier/blob/master/Project.ipynb) ✔️
+#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Offensive-Comment-Classifier/blob/master/Offensive_Comment_Classifier.ipynb) ✔️
 
 __Language:__ python > 3.0
 
