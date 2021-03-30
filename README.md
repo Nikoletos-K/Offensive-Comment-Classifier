@@ -1,7 +1,10 @@
 
 ---
 
-# Offensive comments classifier
+# Offensive comment classifier
+
+
+#### ✔️ Open this notebook with jupyter online viewer [jupyter nbviewer](https://nbviewer.jupyter.org/github/Nikoletos-K/Offensive-Comment-Classifier/blob/master/Project.ipynb) ✔️
 
 __Language:__ python > 3.0
 
@@ -17,3 +20,4 @@ This project consists of:
 4. A big effort to increase F1-score and Accuracy using various methods
 
 ---
+© Konstantinos Nikoletos
