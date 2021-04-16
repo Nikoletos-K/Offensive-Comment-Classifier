@@ -15,8 +15,8 @@ __Data:__ Consists of 6,182 comments that have been collected from internet foru
 This project consists of:
 
 1. Text pre-processing
-2. Vectorazation
-3. Classification with NaiveBayes and SVM
+2. Vectorization
+3. Classification with Naive Bayes and SVM
 4. A big effort to increase F1-score and Accuracy using various methods
 
 ---
