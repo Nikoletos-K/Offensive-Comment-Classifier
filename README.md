@@ -8,7 +8,7 @@
 
 __Language:__ python > 3.0
 
-__Data:__ Consists of 6,182 comments that have been collected from internet forums.Comments are pre-labeled with value 1 for insult and value 0 for non-insult.
+__Data:__ Consists of 6,182 comments that have been collected from internet forums. Comments are pre-labeled with value 1 for insult and value 0 for non-insult.
  - training set: 2,898 neutral and 1,050 offensive
  - test set: 1954 neutral and και 694 offensive.
 
